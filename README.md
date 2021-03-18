@@ -6,10 +6,10 @@ These are crude modules I use for building prototypes. I do not claim that these
 ---
 All modules are described in their respective files/folders. If a testbench is supplied in a module's source code file, there may be an appropriate sim_src directory containing wave configuration and any other things that might be helpful.
 
-| Source Name | Description                                                                              |
-| :---------: | ---------------------------------------------------------------------------------------- |
-| XIYO PISO   | modules for parallel data serialization and a SIPO module for parallelizing serial input |
-| B8_B10      | A custom 8b/10b encoder made from smaller 3b/4b and 5b/6b encoders. (It should work...)  |
+| Source Name | Description                                                                                   |
+| :---------: | --------------------------------------------------------------------------------------------- |
+| XIYO        | PISO modules for parallel data serialization and a SIPO module for parallelizing serial input |
+| B8_B10      | A custom 8b/10b encoder made from smaller 3b/4b and 5b/6b encoders. (It should work...)       |
 
 # License
 ---
