@@ -473,7 +473,7 @@ module PISO_synth_test(
 
 endmodule
 
-
+// synthesis off
 /******************************************************************************
 **
 ** Name:   tb4_XIYO
@@ -681,3 +681,4 @@ module tb4_PISO();
     end
 
 endmodule
+// synthesis on
